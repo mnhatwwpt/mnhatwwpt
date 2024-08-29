@@ -89,9 +89,11 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" height="40" alt="tensorflow logo"  />
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="40" alt="tensorflow logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="40" alt="pytorch logo"  />
+  <img src="https://skillicons.dev/icons?i=pytorch" height="40" alt="pytorch logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=scikitlearn" height="40" alt="scikitlearn logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/pandas/150458" height="40" alt="pandas logo"  />
 </div>
@@ -124,8 +126,10 @@
 
 ###
 
+<h2 align="left">STATS</h2>
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mnhatwwpt&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats-beta-ten-57.vercel.app/api/top-langs?username=mnhatwwpt&langs_count=8&locale=en&hide_title=false&theme=dracula&hide_border=false&order=2" alt="languages graph"  />
 </div>
 
 ###
