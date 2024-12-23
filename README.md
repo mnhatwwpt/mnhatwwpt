@@ -2,7 +2,7 @@
 
 ###
 
-<h5 align="center">I'm Minh Nhat, a Vietnamese citizen.<br><br>I'm working as a frontend developer 💻 and an AI researcher 🤖.</h5>
+<h5 align="center">Vietnamese SouthSide Coder</h5>
 
 ###
 
