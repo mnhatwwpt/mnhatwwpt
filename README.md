@@ -12,16 +12,6 @@
 
 ###
 
-<h5 align="center">CONTACT ME AT</h5>
-
-###
-
-<div align="center">
-  <a href="mailto:tqmnhat225@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="72" height="40" alt="gmail logo"  />
-  </a>
-</div>
-
 ###
 
 <h2 align="left">SKILLS</h2>
