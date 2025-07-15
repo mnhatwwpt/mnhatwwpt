@@ -2,10 +2,6 @@
 
 ###
 
-<h5 align="center">Vietnamese SouthSide Coder</h5>
-
-###
-
 <div align="center">
   <img height="200" src="https://media.giphy.com/media/6ib6KPmkeAjDTxMxij/giphy.gif?cid=ecf05e47g94dsxq0dr1m5rft32j2yqnpg4o1tvlljew6ed4r&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 </div>
